@@ -3,7 +3,7 @@
 A basic tooltip build using HTML, CSS, ReactJS
 
 ### Deployed at:
- https://sarvess.github.io/Tooltip-React/
+ https://aey-kay.github.io/tooltip-react/
 
 ## How to Use
 
