@@ -15,14 +15,7 @@ A basic tooltip build using HTML, CSS, ReactJS
    `npm start`
 5. Choose any direction and hover over Hover over me div to see results.
 
-### Basic Features
 
-1. Choose Direction from Dropdown and Tooltip will be Rendered at corresponding position.
-2. Basic Tooltip App build using ReactJs
-
-### Directory Structure 
-1. `/src`: all files including all components
-2. `/build`: all files for deployment purposes
 
 
 
